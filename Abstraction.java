@@ -2,7 +2,7 @@
  //        Abstract e.g
  //***************************
  
-//  abstract class animal{
+//  abstract clasS animal{
 //    abstract void walk();
 
     
